@@ -1,0 +1,15 @@
+Package: Tarea3Paquete
+Type: Package
+Title: Grafica Jambu y Araña
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Victor Hugo",
+           family = "Angel Ochoa",
+           role = c("aut", "cre"),
+           email = "nvhaomz@gmail.com")
+Description: Grafica el codo de Jambu y el diagrama de araña en Clusters.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+    fmsb
